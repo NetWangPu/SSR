@@ -1,0 +1,57 @@
+[2020-08-16 18:35:26] ShadowsocksR started on port 1080
+[2020-08-16 18:35:26] [Info] Connect sockboom.me:443
+[2020-08-16 18:35:26] [Info] Connect 11.tlu.dl.delivery.mp.microsoft.com:80
+[2020-08-16 18:35:27] [Info] Direct connect download.gensee.com:443
+[2020-08-16 18:35:27] [Info] Connect 11.tlu.dl.delivery.mp.microsoft.com:80
+[2020-08-16 18:35:27] [Info] Disconnect 11.tlu.dl.delivery.mp.microsoft.com:80
+[2020-08-16 18:35:28] [Info] Direct connect download.gensee.com:443
+[2020-08-16 18:35:28] [Info] Direct connect download.gensee.com:443
+[2020-08-16 18:35:29] [Info] Connect 11.tlu.dl.delivery.mp.microsoft.com:80
+[2020-08-16 18:35:29] [Info] Disconnect 11.tlu.dl.delivery.mp.microsoft.com:80
+[2020-08-16 18:35:30] [Info] Connect 11.tlu.dl.delivery.mp.microsoft.com:80
+[2020-08-16 18:35:30] [Info] Disconnect 11.tlu.dl.delivery.mp.microsoft.com:80
+[2020-08-16 18:35:30] [Info] Direct connect download.gensee.com:443
+[2020-08-16 18:35:30] [Info] Direct connect redirector.gvt1.com:80
+[2020-08-16 18:35:31] [Info] Direct connect r1---sn-bvn0o-fo1l.gvt1.com:80
+[2020-08-16 18:35:31] [Info] Direct connect redirector.gvt1.com:80
+[2020-08-16 18:35:31] [Info] Direct connect download.gensee.com:443
+[2020-08-16 18:35:31] [Info] Direct connect r1---sn-bvn0o-fo1l.gvt1.com:80
+[2020-08-16 18:35:32] [Info] Direct connect redirector.gvt1.com:80
+[2020-08-16 18:35:32] [Info] Direct connect r1---sn-bvn0o-fo1l.gvt1.com:80
+[2020-08-16 18:35:35] [Info] Connect content-autofill.googleapis.com:443
+[2020-08-16 18:35:35] [Info] Direct connect update.googleapis.com:443
+[2020-08-16 18:35:36] [Info] Direct connect download.gensee.com:443
+[2020-08-16 18:35:36] [Info] Connect raw.githubusercontent.com:443
+[2020-08-16 18:35:36] [Error] connect to update server error
+[2020-08-16 18:35:36] [Info] Direct connect download.gensee.com:443
+[2020-08-16 18:35:37] [Info] Direct connect download.gensee.com:443
+[2020-08-16 18:35:38] [Info] Direct connect download.gensee.com:443
+[2020-08-16 18:35:38] [Info] Connect beacons4.gvt2.com:443
+[2020-08-16 18:35:38] [Info] Direct connect download.gensee.com:443
+[2020-08-16 18:35:39] [Info] Connect 11.tlu.dl.delivery.mp.microsoft.com:80
+[2020-08-16 18:35:39] [Info] Disconnect 11.tlu.dl.delivery.mp.microsoft.com:80
+[2020-08-16 18:35:39] [Info] Direct connect download.gensee.com:443
+[2020-08-16 18:35:40] [Info] Connect 11.tlu.dl.delivery.mp.microsoft.com:80
+[2020-08-16 18:35:40] [Info] Disconnect 11.tlu.dl.delivery.mp.microsoft.com:80
+[2020-08-16 18:35:41] [Info] Direct connect download.gensee.com:443
+[2020-08-16 18:35:44] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2020-08-16 18:35:44] [Info] Direct connect download.gensee.com:443
+[2020-08-16 18:35:47] [Info] Direct connect download.gensee.com:443
+[2020-08-16 18:35:50] [Info] Direct connect beacons3.gvt2.com:443
+[2020-08-16 18:36:01] [Info] Direct connect beacons.gvt2.com:443
+[2020-08-16 18:36:07] [Info] Direct connect download.gensee.com:443
+[2020-08-16 18:36:08] [Info] Direct connect download.gensee.com:443
+[2020-08-16 18:36:11] [Info] Direct connect download.gensee.com:443
+[2020-08-16 18:36:14] [Info] Direct connect download.gensee.com:443
+[2020-08-16 18:36:14] [Info] Direct connect download.gensee.com:443
+[2020-08-16 18:36:14] [Info] Direct connect download.gensee.com:443
+[2020-08-16 18:36:17] [Info] Direct connect download.gensee.com:443
+[2020-08-16 18:36:19] [Info] Direct connect download.gensee.com:443
+[2020-08-16 18:36:21] [Info] Direct connect download.gensee.com:443
+[2020-08-16 18:36:21] [Info] Direct connect download.gensee.com:443
+[2020-08-16 18:36:24] [Info] Direct connect download.gensee.com:443
+[2020-08-16 18:36:25] [Info] Direct connect download.gensee.com:443
+[2020-08-16 18:36:25] [Info] Direct connect download.gensee.com:443
+[2020-08-16 18:36:29] [Info] Direct connect 222.186.13.168:443
+[2020-08-16 18:36:29] [Info] Direct connect 222.186.13.168:443
+[2020-08-16 18:36:30] [Info] Disconnect sockboom.me:443
